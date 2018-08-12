@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 project:
   name: "Gitor"
   state: "unstable"
@@ -23,7 +26,7 @@ vision:
 
 contributionLinks:
   issueTemplate: "/.github/ISSUE_TEMPLATE.md"
-  starterIssues: "https://github.com/okkur-incubator/gitor/labels/starter%20issue"
+  starterIssues: "https://github.com/sniperkit/snk.fork.gitor/labels/starter%20issue"
 
 emails:
   commercialSupport: "support@okkur.io"
@@ -43,15 +46,15 @@ maintainers:
     nick: "stp-ip"
 
 repo:
-  link: "https://github.com/okkur-incubator/gitor/"
+  link: "https://github.com/sniperkit/snk.fork.gitor/"
   type: "Github"
 
 badges:
   - image: "https://img.shields.io/badge/state-unstable-blue.svg"
     alt: "state"
-  - image: "https://img.shields.io/github/release/okkur-incubator/gitor.svg"
-    link: "https://github.com/okkur-incubator/gitor/releases"
+  - image: "https://img.shields.io/github/release/sniperkit/snk.fork.gitor.svg"
+    link: "https://github.com/sniperkit/snk.fork.gitor/releases"
     alt: "release"
-  - image: "https://img.shields.io/github/license/okkur-incubator/gitor.svg"
+  - image: "https://img.shields.io/github/license/sniperkit/snk.fork.gitor.svg"
     link: "LICENSE"
     alt: "license"

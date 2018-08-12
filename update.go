@@ -1,4 +1,9 @@
 /*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
+/*
 Copyright 2017 - The Gitor Authors
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -19,12 +24,10 @@ import (
 	"log"
 	"strings"
 
-	"gopkg.in/src-d/go-git.v4/plumbing"
-
-	"gopkg.in/src-d/go-git.v4/plumbing/transport"
-
 	git "gopkg.in/src-d/go-git.v4"
 	"gopkg.in/src-d/go-git.v4/config"
+	"gopkg.in/src-d/go-git.v4/plumbing"
+	"gopkg.in/src-d/go-git.v4/plumbing/transport"
 	"gopkg.in/src-d/go-git.v4/storage/memory"
 )
 

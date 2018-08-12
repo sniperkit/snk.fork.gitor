@@ -1,6 +1,13 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package main
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestExtractingPathPlainHTTP(t *testing.T) {
 	path := extractPath("github.com/okkur/gitor.git")
